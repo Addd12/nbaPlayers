@@ -1,0 +1,11 @@
+C:\Users\enead\OneDrive\Desktop\MentorMate\NBAStars\NBAStars\bin\Debug\netcoreapp2.1\NBAStars.deps.json
+C:\Users\enead\OneDrive\Desktop\MentorMate\NBAStars\NBAStars\bin\Debug\netcoreapp2.1\NBAStars.runtimeconfig.json
+C:\Users\enead\OneDrive\Desktop\MentorMate\NBAStars\NBAStars\bin\Debug\netcoreapp2.1\NBAStars.runtimeconfig.dev.json
+C:\Users\enead\OneDrive\Desktop\MentorMate\NBAStars\NBAStars\bin\Debug\netcoreapp2.1\NBAStars.dll
+C:\Users\enead\OneDrive\Desktop\MentorMate\NBAStars\NBAStars\bin\Debug\netcoreapp2.1\NBAStars.pdb
+C:\Users\enead\OneDrive\Desktop\MentorMate\NBAStars\NBAStars\obj\Debug\netcoreapp2.1\NBAStars.csprojAssemblyReference.cache
+C:\Users\enead\OneDrive\Desktop\MentorMate\NBAStars\NBAStars\obj\Debug\netcoreapp2.1\NBAStars.csproj.CoreCompileInputs.cache
+C:\Users\enead\OneDrive\Desktop\MentorMate\NBAStars\NBAStars\obj\Debug\netcoreapp2.1\NBAStars.AssemblyInfoInputs.cache
+C:\Users\enead\OneDrive\Desktop\MentorMate\NBAStars\NBAStars\obj\Debug\netcoreapp2.1\NBAStars.AssemblyInfo.cs
+C:\Users\enead\OneDrive\Desktop\MentorMate\NBAStars\NBAStars\obj\Debug\netcoreapp2.1\NBAStars.dll
+C:\Users\enead\OneDrive\Desktop\MentorMate\NBAStars\NBAStars\obj\Debug\netcoreapp2.1\NBAStars.pdb
